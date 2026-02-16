@@ -64,11 +64,16 @@ Featured Projects
 
 ---
 
-📫 **Connect with me:**
+Currently Learning
 
 - Large Language Models (LLMs)
 - MLOps & Model Deployment
 - Distributed Machine Learning
 - Generative AI
+
+Connect With Me
+
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: sbbaryan@gmail.com
 
 
