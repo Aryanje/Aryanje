@@ -1,38 +1,73 @@
-## Hi there 👋
+Hi, I'm Brajesh
 
-# 👋 Hi, I'm Brajesh
+Machine Learning Engineer | Data Scientist | AI Enthusiast  
 
-🎓 I'm currently learning **Data Science** and ** Generative AI** . Apart from this I have 5+ years of Experience as Data Analyst
-💻 I enjoy working with **Python, statistics, and finance models** to analyze risk and build intelligent systems.  
-📊 Exploring **Quantitative Finance, Machine Learning**, and **Risk Modeling**.  risk forecasting to automated decision-making.
+I build intelligent systems that turn data into impactful solutions.  
+Passionate about Machine Learning, Deep Learning, NLP, and Data-Driven Decision Making.
 
 
----
-
-## 🔧 Skills
-- **Programming:** Python | SQL | Excel  
-- **Data Science:** Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn  
-- **AI & ML:** Generative AI | LLMs | Prompt Engineering | LangChain | OpenAI API  
-- **Analytics Tools:** Power BI | Tableau  
-- **Version Control:** Git | GitHub  
+- Experience of 5+ Years as Data Analyst
+- Interested inWorking as Machine Learning Engineer / Data Scientist
+- Strong focus on solving real-world business problems using data
+- Open to collaboration on AI/ML projects
 
 ---
 
-## 🌱 Currently Learning
-- Generative AI applications in finance  
-- Machine learning models for risk analysis  
-- Quantitative statistics and probability 
+Technical Skills
+Programming Languages : Python
+Database : My Sql
+Data Science & ML
+- Scikit-Learn
+- Pandas & NumPy
+- Matplotlib & Seaborn
+- Statsmodels
+- XGBoost / LightGBM
+
+Deep Learning
+- TensorFlow
+- Keras
+- PyTorch
+- CNN, RNN, LSTM
+- Transfer Learning
+
+ NLP
+- NLTK
+- SpaCy
+- Transformers (HuggingFace)
+- Text Classification
+- Sentiment Analysis
+
+Tools & Platforms
+- Git & GitHub
+- MLflow
+- Jupyter Notebook 
 
 ---
 
-## 💬 Ask me about
-- Python for finance and data visualization  
-- Building AI-driven financial models  
+Featured Projects
+
+1. Customer Churn Prediction
+- Built ML model to predict customer churn
+- Used Random Forest & XGBoost
+- Achieved 89% accuracy
+- Performed feature engineering & model tuning
+
+2. NLP Sentiment Analysis
+- Built sentiment analysis model using LSTM
+- Used pretrained embeddings
+- Deployed using Flask
+
+3. House Price Prediction
+- Regression model using Linear Regression & Gradient Boosting
+- Feature selection & data cleaning pipeline
 
 ---
 
 📫 **Connect with me:**
 
-⚡ **Fun fact:** I believe the future of finance is *AI-powered and data-driven!* 🚀
+- Large Language Models (LLMs)
+- MLOps & Model Deployment
+- Distributed Machine Learning
+- Generative AI
 
 
