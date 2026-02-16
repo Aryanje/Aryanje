@@ -73,7 +73,7 @@ Currently Learning
 
 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://linkedin.com/in/brajeshsingh8312
 - Email: sbbaryan@gmail.com
 
 
