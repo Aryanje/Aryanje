@@ -15,7 +15,7 @@ Passionate about Machine Learning, Deep Learning, NLP, and Data-Driven Decision 
 
 Technical Skills
 Programming Languages : Python
-| Database : My Sql
+| Database : My Sql 
 Data Science & ML
 - Scikit-Learn
 - Pandas & NumPy
