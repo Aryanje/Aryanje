@@ -7,7 +7,7 @@ Passionate about Machine Learning, Deep Learning, NLP, and Data-Driven Decision 
 
 
 - Experience of 5+ Years as Data Analyst
-- Interested inWorking as Machine Learning Engineer / Data Scientist
+- Interested in Working as Machine Learning Engineer / Data Scientist
 - Strong focus on solving real-world business problems using data
 - Open to collaboration on AI/ML projects
 
